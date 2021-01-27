@@ -15,3 +15,5 @@ zipit my-folder
 ```
 
 Do not forget that you need to be inside the target folder’s parent directory for it to work.
+
+![Screenshot](/screenshot.png?raw=true)
